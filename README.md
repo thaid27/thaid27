@@ -34,7 +34,7 @@ Article : [Reproduction Challenge : Visual Jenga](https://github.com/thaid27/vis
 - Environnement : python, Kaggle
 - MOLMO : modèle multimodal utilisé pour localiser les objets dans une image
 - SAM: modèle de segmentation et de création de masque 
-- Stable Diffusion inpainting**: modèle génératif d’image
+- Stable Diffusion inpainting: modèle génératif d’image
 
 ---
 
