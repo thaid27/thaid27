@@ -1,6 +1,6 @@
 ## Bienvenue sur mon Github
 
-Bonjour, je suis Damien THAI, ingénieur en IA générative et passionné par l'application de l'IA pour la résolution de problèmes concrets. Sur ce github sont présentés mes projets scolaires accompagnés de leur code et des articles concernant mes projets professionnels. 
+Bonjour, je suis Damien THAI, ingénieur en IA générative et passionné par l'application de l'IA pour la résolution de problèmes concrets. Sur ce github sont présentés mes projets scolaires accompagnés de leur code ainsi que des articles détaillant mes projets professionnels. 
 
 À travers ces projets, j’ai pu utiliser une variété de technologie d’IA couvrant l’analyse de données, le NLP, l’utilisation personnalisée de LLM, des systèmes agentiques, de computer vision et d’IA génératrice d’images. Les résultats de ces projets sont alors des articles et/ou des applications complètes (avec UI) et déployées. 
 
@@ -63,3 +63,5 @@ Présentation du projet : [lien de la présentation (PDF)](https://github.com/th
 - python et bibliothèque propriétaire pour le contrôle du drone
 - Embedding texte/image : CLIP
 - Analyse de similarité par cosinus
+
+---
