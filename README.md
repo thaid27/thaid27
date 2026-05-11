@@ -88,7 +88,7 @@ Workflow n8n : [workflow](workflow/agent_veille_tech.json)
 ---
 
 ## Usage de l'IA dans le milieu créatif
-Cet article explore les usages des modèles génératifs dans le créatifs, couvrant une variété de support tels que les images, les vidéos, l'audio ou la 3D dans un cadre commercial. 
+Cet article explore les usages des modèles génératifs dans le domaine créatif et dans un cadre commercial, couvrant une variété de supports tels que l'image, la vidéo, l'audio ou la 3D.
 
 **Résultats** :  
 GitHub : [IA générative créative](https://github.com/thaid27/IA_generative_creative) 
