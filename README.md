@@ -73,9 +73,8 @@ Cet agent vise à automatiser le processus de veille technologique en générant
 Il est relié à une base de données stockant toutes les descriptions d'outils générées.
 
 **Résultats** :  
-
-GitHub : [agent newsletter](https://github.com/thaid27/agent_veille_tech_N8N)
-Exemple de newsletters : [newsletter](https://thaid27.github.io/agent_veille_tech_N8N/assets/newsletter_example.html)
+GitHub : [agent newsletter](https://github.com/thaid27/agent_veille_tech_N8N)  
+Exemple de newsletters : [newsletter](https://thaid27.github.io/agent_veille_tech_N8N/assets/newsletter_example.html)  
 Workflow n8n : [workflow](workflow/agent_veille_tech.json)
 
 
@@ -91,7 +90,7 @@ Workflow n8n : [workflow](workflow/agent_veille_tech.json)
 ## Usage de l'IA dans le milieu créatif
 Cet article explore les usages des modèles génératifs dans le créatifs, couvrant une variété de support tels que les images, les vidéos, l'audio ou la 3D dans un cadre commercial. 
 
-**Résultats** :
+**Résultats** :  
 GitHub : [IA générative créative](https://github.com/thaid27/IA_generative_creative) 
 
 **Technologies utilisées** :
