@@ -11,7 +11,7 @@ Bonjour, je suis Damien THAI, ingénieur en IA générative et passionné par l'
 Ce projet est une analyse exploratrice de données portant sur un dataset Kaggle de recettes (176 287) issues de food.com. Cette analyse explore les tendances de popularités du site et se conclut par des recommandations afin d’améliorer le trafic sur le site.  
 
 **Résultats** :  
-GitHub : https://github.com/thaid27/projet_Kit_Big_Data  
+GitHub : [kit big data](https://github.com/thaid27/projet_Kit_Big_Data)
 Résultats de l'analyse (PDF) : [Première page du site web(PDF)](https://github.com/thaid27/projet_Kit_Big_Data/blob/main/EDA_results.pdf)    
 Lien de la webapp : [Application streamlit](https://projetkitbigdataipja7lrnugkzoh5way2ngf.streamlit.app)
 
@@ -27,7 +27,7 @@ Lien de la webapp : [Application streamlit](https://projetkitbigdataipja7lrnugkz
 Ce projet cherche à reproduire et à approfondir les résultats d’un papier de recherche. L’article traité étudie comment la suppression d’objets dans une image par IA peut apporter des informations sur sa structure logique.
 
 **Résultats** :  
-GitHub : https://github.com/thaid27/visual_jenga   
+GitHub : [visual jenga](https://github.com/thaid27/visual_jenga)  
 Article : [Reproduction Challenge : Visual Jenga](https://github.com/thaid27/visual_jenga/blob/main/reproducibility_visual_jenga.pdf)
 
 **Technologies utilisées** : 
@@ -42,7 +42,7 @@ Article : [Reproduction Challenge : Visual Jenga](https://github.com/thaid27/vis
 Ce projet propose une étude thématique d’une série d’articles (627) traitant de l’éthique de l’IA. Plusieurs méthodes de NLP sont alors utilisées afin de regrouper et de trouver les thèmes communs présents dans cette liste d’articles. 
 
 **Résultats** :  
-GitHub : https://github.com/thaid27/projet_NLP  
+GitHub : [projet NLP](https://github.com/thaid27/projet_NLP)  
 Rapport du projet : [Visualisation and analysing AI ethics charters & manifestos with clustering](https://github.com/thaid27/projet_NLP/blob/main/Rapport%20projet%20NLP%20clustering.pdf)
 
 **Technologies utilisées** : 
@@ -56,7 +56,7 @@ Rapport du projet : [Visualisation and analysing AI ethics charters & manifestos
 Ce projet utilise un modèle de vision afin d’orienter le pilotage d’un drone. Un modèle CLIP interprète les images de la caméra de drone naviguant devant une série d’images et se pose devant celle contenant l’objet correspondant au prompt utilisateur.  
 
 **Résultats** :  
-GitHub : https://github.com/thaid27/projet_NLP  
+GitHub : [projet drone](https://github.com/thaid27/projet_NLP)  
 Présentation du projet : [lien de la présentation (PDF)](https://github.com/thaid27/Projet_Drone/blob/main/Projet_drone_presentation.pdf)
 
 **Technologies utilisées** : 
@@ -65,3 +65,45 @@ Présentation du projet : [lien de la présentation (PDF)](https://github.com/th
 - Analyse de similarité par cosinus
 
 ---
+
+## Projets Professionnels
+
+### Agent de veille technologique 
+Cet agent vise à automatiser le processus de veille technologique en générant une newsletter hebdomadaire sur les nouveaux outils de génération IA sortis dans la semaine. 
+Il est relié à une base de données stockant toutes les descriptions d'outils générées.
+
+**Résultats** :  
+
+GitHub : [agent newsletter](https://github.com/thaid27/agent_veille_tech_N8N)
+Exemple de newsletters : [newsletter](https://thaid27.github.io/agent_veille_tech_N8N/assets/newsletter_example.html)
+Workflow n8n : [workflow](workflow/agent_veille_tech.json)
+
+
+**Technologies utilisées** :
+- Workflow agentique : n8n
+- LLM sur le cloud : Azure AI
+- Base de données vectorielle sur le cloud : Azure Search 
+- API Google : YouTube Data API (web scraping),  Gmail API (distribution)
+- API externe : RapidAPI (web scraping)
+
+---
+
+## Usage de l'IA dans le milieu créatif
+Cet article explore les usages des modèles génératifs dans le créatifs, couvrant une variété de support tels que les images, les vidéos, l'audio ou la 3D dans un cadre commercial. 
+
+**Résultats** :
+GitHub : [IA générative créative](https://github.com/thaid27/IA_generative_creative) 
+
+**Technologies utilisées** :
+- Environement local : ComfyUI (workflow génératif nodale), python
+- Enviroment cloud : Krea
+- modèle d'images : Flux (krea, klein), Z-image, Qwen-Edit, Nano banana, Seedream 
+- modèle de video : Veo3, Wan, Kling, LTX, Seedance 
+
+
+
+
+
+
+
+
