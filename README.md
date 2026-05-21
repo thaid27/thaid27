@@ -1,6 +1,6 @@
 ## Bienvenue sur mon Github
 
-Bonjour, je suis Damien THAI, ingénieur en IA générative et passionné par l'application de l'IA pour la résolution de problèmes concrets. Sur ce github sont présentés mes projets scolaires accompagnés de leur code ainsi que des articles détaillant mes projets professionnels. 
+Bonjour, je suis Damien THAI, ingénieur en IA générative et passionné par l'application de l'IA pour la résolution de problèmes concrets. Sur ce github sont présentés mes projets scolaires et projets personnels accompagnés d'une explication détaillé et du code associé. 
 
 À travers ces projets, j’ai pu utiliser une variété de technologie d’IA couvrant l’analyse de données, le NLP, l’utilisation personnalisée de LLM, des systèmes agentiques, de computer vision et d’IA génératrice d’images. Les résultats de ces projets sont alors des articles et/ou des applications complètes (avec UI) et déployées. 
 
@@ -66,7 +66,7 @@ Présentation du projet : [lien de la présentation (PDF)](https://github.com/th
 
 ---
 
-## Projets Professionnels
+## Projets Personnels
 
 ### Agent de veille technologique 
 Cet agent vise à automatiser le processus de veille technologique en générant une newsletter hebdomadaire sur les nouveaux outils de génération IA sortis dans la semaine. 
@@ -97,9 +97,7 @@ GitHub : [IA générative créative](https://github.com/thaid27/IA_generative_cr
 - Environement local : ComfyUI (workflow génératif nodale), python
 - Enviroment cloud : Krea
 - modèle d'images : Flux (krea, klein), Z-image, Qwen-Edit, Nano banana, Seedream 
-- modèle de video : Veo3, Wan, Kling, LTX, Seedance 
-
-
+- modèle de video : Veo3, Wan, Kling, LTX, Seedance
 
 
 
