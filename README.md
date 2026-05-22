@@ -88,7 +88,7 @@ Workflow n8n : [workflow](workflow/agent_veille_tech.json)
 ---
 
 ### Outil IA de génération de vidéo UGC
-Cette solution est une pipeline de génération de vidéo de type UGC (contenue généré par les utilsateurs) permettant d'obtenir une vidéo de présentation d'un produit. Elle couvre l'ensemble du processus de création de vidéo : génération d'avatar, élaboration du script, génération des keyframes, animation des séquences vidéo, génération de la voix.  
+Cette solution est une pipeline de génération vidéo de type UGC (contenue généré par les utilsateurs) permettant d'obtenir une vidéo de présentation d'un produit. Elle couvre l'ensemble du processus de création de vidéo : génération d'avatar, élaboration du script, génération des keyframes, animation des séquences vidéo, génération de la voix.  
 
 **Résultats** :  
 GitHub : [UGC_maker](https://github.com/thaid27/UGC_maker)
