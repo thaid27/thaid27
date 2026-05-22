@@ -12,7 +12,7 @@ Ce projet est une analyse exploratrice de données portant sur un dataset Kaggle
 
 **Résultats** :  
 GitHub : [kit big data](https://github.com/thaid27/projet_Kit_Big_Data)
-Résultats de l'analyse (PDF) : [Première page du site web(PDF)](https://github.com/thaid27/projet_Kit_Big_Data/blob/main/EDA_results.pdf)    
+Résultats de l'analyse (PDF) : [Première page du site web(PDF)](https://github.com/thaid27/projet_Kit_Big_Data/blob/main/EDA_results.pdf)      
 Lien de la webapp : [Application streamlit](https://projetkitbigdataipja7lrnugkzoh5way2ngf.streamlit.app)
 
 **Technologies utilisées** : 
@@ -87,6 +87,24 @@ Workflow n8n : [workflow](workflow/agent_veille_tech.json)
 
 ---
 
+### Outil IA de génération de vidéo UGC
+Cette solution est une pipeline de génération de vidéo de type UGC (contenue généré par les utilsateurs) permettant d'obtenir une vidéo de présentation d'un produit. Elle couvre l'ensemble du processus de création de vidéo : génération d'avatar, élaboration du script, génération des keyframes, animation des séquences vidéo, génération de la voix.  
+
+**Résultats** :  
+GitHub : [UGC_maker](https://github.com/thaid27/UGC_maker)
+
+**Technologies utilisées** :
+- Programmation : Python
+- Webapp : Streamlit
+- Cloud : Google Cloud Platform 
+- Modèles utilisés : 
+  - LLM : gemini-3.1-flash-lite
+  - image : Nano Banana 2
+  - voix : gemini-3.1-flash-tts-preview
+  - vidéo : Veo 3.1
+
+---
+
 ### Usage de l'IA dans le milieu créatif
 Cet article explore les usages des modèles génératifs dans le domaine créatif et dans un cadre commercial, couvrant une variété de supports tels que l'image, la vidéo, l'audio ou la 3D.
 
@@ -98,6 +116,7 @@ GitHub : [IA générative créative](https://github.com/thaid27/IA_generative_cr
 - Enviroment cloud : Krea
 - modèle d'images : Flux (krea, klein), Z-image, Qwen-Edit, Nano banana, Seedream 
 - modèle de video : Veo3, Wan, Kling, LTX, Seedance
+
 
 
 
