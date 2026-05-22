@@ -16,10 +16,10 @@ Résultats de l'analyse (PDF) : [Première page du site web(PDF)](https://github
 Lien de la webapp : [Application streamlit](https://projetkitbigdataipja7lrnugkzoh5way2ngf.streamlit.app)
 
 **Technologies utilisées** : 
-- Environnement : python
-- stack data pour la visualisation de données : pandas, matplotlib, seaborn
+- Langage de programmation : python
+- Stack data pour la visualisation de données : pandas, matplotlib, seaborn
 - UI et webapp : Streamlit, Streamlit Cloud
-- maintenance et partage de code : github (tests et pipeline CI/CD)
+- Maintenance et partage de code : github (tests et pipeline CI/CD)
 
 ---
 
@@ -60,7 +60,7 @@ GitHub : [projet drone](https://github.com/thaid27/projet_NLP)
 Présentation du projet : [lien de la présentation (PDF)](https://github.com/thaid27/Projet_Drone/blob/main/Projet_drone_presentation.pdf)
 
 **Technologies utilisées** : 
-- python et bibliothèque propriétaire pour le contrôle du drone
+- Langage de programmation : Python et bibliothèque propriétaire pour le contrôle du drone
 - Embedding texte/image : CLIP
 - Analyse de similarité par cosinus
 
@@ -88,20 +88,20 @@ Workflow n8n : [workflow](workflow/agent_veille_tech.json)
 ---
 
 ### Outil IA de génération de vidéo UGC
-Cette solution est une pipeline de génération vidéo de type UGC (contenue généré par les utilsateurs) permettant d'obtenir une vidéo de présentation d'un produit. Elle couvre l'ensemble du processus de création de vidéo : génération d'avatar, élaboration du script, génération des keyframes, animation des séquences vidéo, génération de la voix.  
+Cette solution est une pipeline de génération vidéo de type UGC (contenu généré par les utilisateurs) permettant d'obtenir une vidéo de présentation d'un produit. Elle couvre l'ensemble du processus de création de vidéo : génération d'avatar, élaboration du script, génération des keyframes, animation des séquences vidéo, génération de la voix.  
 
 **Résultats** :  
 GitHub : [UGC_maker](https://github.com/thaid27/UGC_maker)
 
 **Technologies utilisées** :
-- Programmation : Python
+- Langage de programmation : Python
 - Webapp : Streamlit
 - Cloud : Google Cloud Platform 
 - Modèles utilisés : 
   - LLM : gemini-3.1-flash-lite
-  - image : Nano Banana 2
-  - voix : gemini-3.1-flash-tts-preview
-  - vidéo : Veo 3.1
+  - Image : Nano Banana 2
+  - Voix : gemini-3.1-flash-tts-preview
+  - Vidéo : Veo 3.1
 
 ---
 
@@ -114,8 +114,8 @@ GitHub : [IA générative créative](https://github.com/thaid27/IA_generative_cr
 **Technologies utilisées** :
 - Environement local : ComfyUI (workflow génératif nodale), python
 - Enviroment cloud : Krea
-- modèle d'images : Flux (krea, klein), Z-image, Qwen-Edit, Nano banana, Seedream 
-- modèle de video : Veo3, Wan, Kling, LTX, Seedance
+- Modèle d'images : Flux (krea, klein), Z-image, Qwen-Edit, Nano banana, Seedream 
+- Modèle de video : Veo3, Wan, Kling, LTX, Seedance
 
 
 
