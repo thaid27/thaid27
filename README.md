@@ -5,6 +5,59 @@ Bonjour, je suis Damien THAI, ingénieur en IA générative et passionné par l'
 À travers ces projets, j’ai pu utiliser une variété de technologie d’IA couvrant l’analyse de données, le NLP, l’utilisation personnalisée de LLM, des systèmes agentiques, de computer vision et d’IA génératrice d’images. Les résultats de ces projets sont alors des articles et/ou des applications complètes (avec UI) et déployées. 
 
 
+## Projets Personnels
+
+### Agent de veille technologique 
+Cet agent vise à automatiser le processus de veille technologique en générant une newsletter hebdomadaire sur les nouveaux outils de génération IA sortis dans la semaine. 
+Il est relié à une base de données stockant toutes les descriptions d'outils générées.
+
+**Résultats** :  
+GitHub : [agent newsletter](https://github.com/thaid27/agent_veille_tech_N8N)  
+Exemple de newsletters : [newsletter](https://thaid27.github.io/agent_veille_tech_N8N/assets/newsletter_example.html)  
+Workflow n8n : [workflow](workflow/agent_veille_tech.json)
+
+
+**Technologies utilisées** :
+- Workflow agentique : n8n
+- LLM sur le cloud : Azure AI
+- Base de données vectorielle sur le cloud : Azure Search 
+- API Google : YouTube Data API (web scraping),  Gmail API (distribution)
+- API externe : RapidAPI (web scraping)
+
+---
+
+### Outil IA de génération de vidéo UGC
+Cette solution est une pipeline de génération vidéo de type UGC (contenu généré par les utilisateurs) permettant d'obtenir une vidéo de présentation d'un produit. Elle couvre l'ensemble du processus de création de vidéo : génération d'avatar, élaboration du script, génération des keyframes, animation des séquences vidéo, génération de la voix.  
+
+**Résultats** :  
+GitHub : [UGC_maker](https://github.com/thaid27/UGC_maker)
+
+**Technologies utilisées** :
+- Langage de programmation : Python
+- Webapp : Streamlit
+- Cloud : Google Cloud Platform 
+- Modèles utilisés : 
+  - LLM : gemini-3.1-flash-lite
+  - Image : Nano Banana 2
+  - Voix : gemini-3.1-flash-tts-preview
+  - Vidéo : Veo 3.1
+
+---
+
+### Usage de l'IA dans le milieu créatif
+Cet article explore les usages des modèles génératifs dans le domaine créatif et dans un cadre commercial, couvrant une variété de supports tels que l'image, la vidéo, l'audio ou la 3D.
+
+**Résultats** :  
+GitHub : [IA générative créative](https://github.com/thaid27/IA_generative_creative) 
+
+**Technologies utilisées** :
+- Environement local : ComfyUI (workflow génératif nodale), python
+- Enviroment cloud : Krea
+- Modèle d'images : Flux (krea, klein), Z-image, Qwen-Edit, Nano banana, Seedream 
+- Modèle de video : Veo3, Wan, Kling, LTX, Seedance
+
+---
+
 ## Projets Scolaires
 
 ### Projet kit big data
@@ -64,58 +117,6 @@ Présentation du projet : [lien de la présentation (PDF)](https://github.com/th
 - Embedding texte/image : CLIP
 - Analyse de similarité par cosinus
 
----
-
-## Projets Personnels
-
-### Agent de veille technologique 
-Cet agent vise à automatiser le processus de veille technologique en générant une newsletter hebdomadaire sur les nouveaux outils de génération IA sortis dans la semaine. 
-Il est relié à une base de données stockant toutes les descriptions d'outils générées.
-
-**Résultats** :  
-GitHub : [agent newsletter](https://github.com/thaid27/agent_veille_tech_N8N)  
-Exemple de newsletters : [newsletter](https://thaid27.github.io/agent_veille_tech_N8N/assets/newsletter_example.html)  
-Workflow n8n : [workflow](workflow/agent_veille_tech.json)
-
-
-**Technologies utilisées** :
-- Workflow agentique : n8n
-- LLM sur le cloud : Azure AI
-- Base de données vectorielle sur le cloud : Azure Search 
-- API Google : YouTube Data API (web scraping),  Gmail API (distribution)
-- API externe : RapidAPI (web scraping)
-
----
-
-### Outil IA de génération de vidéo UGC
-Cette solution est une pipeline de génération vidéo de type UGC (contenu généré par les utilisateurs) permettant d'obtenir une vidéo de présentation d'un produit. Elle couvre l'ensemble du processus de création de vidéo : génération d'avatar, élaboration du script, génération des keyframes, animation des séquences vidéo, génération de la voix.  
-
-**Résultats** :  
-GitHub : [UGC_maker](https://github.com/thaid27/UGC_maker)
-
-**Technologies utilisées** :
-- Langage de programmation : Python
-- Webapp : Streamlit
-- Cloud : Google Cloud Platform 
-- Modèles utilisés : 
-  - LLM : gemini-3.1-flash-lite
-  - Image : Nano Banana 2
-  - Voix : gemini-3.1-flash-tts-preview
-  - Vidéo : Veo 3.1
-
----
-
-### Usage de l'IA dans le milieu créatif
-Cet article explore les usages des modèles génératifs dans le domaine créatif et dans un cadre commercial, couvrant une variété de supports tels que l'image, la vidéo, l'audio ou la 3D.
-
-**Résultats** :  
-GitHub : [IA générative créative](https://github.com/thaid27/IA_generative_creative) 
-
-**Technologies utilisées** :
-- Environement local : ComfyUI (workflow génératif nodale), python
-- Enviroment cloud : Krea
-- Modèle d'images : Flux (krea, klein), Z-image, Qwen-Edit, Nano banana, Seedream 
-- Modèle de video : Veo3, Wan, Kling, LTX, Seedance
 
 
 
